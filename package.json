@@ -1,0 +1,13 @@
+{
+  "name": "crypto-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "file:/home/stanky/Desktop/typescript-sdk-1.27.1",
+    "ethers": "^6.13.0",
+    "dotenv": "^17.3.1"
+  }
+}
