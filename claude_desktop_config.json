@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "deployments-api": {
+      "command": "node",
+      "args": ["/home/stanky/mcp-server/server.js"]
+    }
+  }
+}
